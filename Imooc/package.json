@@ -12,10 +12,12 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "bootstrap": "^3.3.7",
+    "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
     "jade": "^1.11.0",
     "moment": "^2.20.1",
     "mongoose": "^4.13.9",
+    "superagent": "^3.8.2",
     "utility": "^1.13.1"
   }
 }
